@@ -18,10 +18,10 @@ Here are a couple live web applications that let you enter your token details, a
 If you'd like to integrate suggesting a token into your own web app, you can follow this code snippet to implement it:
 
 ```javascript
-const tokenAddress = '0xd00981105e61274c8a5cd5a88fe7e037d935b513';
-const tokenSymbol = 'TUT';
-const tokenDecimals = 18;
-const tokenImage = 'http://placekitten.com/200/300';
+const tokenAddress = '0x45670f4Dbd67bC986fA05A541b3727A917d21cDE';
+const tokenSymbol = 'APT';
+const tokenDecimals = 8;
+const tokenImage = '(https://github.com/appletradepay/Token-Priject1/blob/main/Untitled-1.png)';
 
 try {
   // wasAdded is a boolean. Like any RPC method, an error may be thrown.
